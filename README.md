@@ -23,6 +23,12 @@ Here are some ideas to get you started:
 🔍 **Currently exploring** **Cybersecurity** and **Cloud Computing**, expanding my skills beyond software development.  
 🚀 I thrive on **solving complex problems**, pushing boundaries, and creating meaningful projects that leave a mark.  
 
+## 📊 GitHub Stats
+![Khaoula's GitHub stats](https://github-readme-stats.vercel.app/api?username=khaoulaJel&show_icons=true&theme=radical)
+
+## 🔥 Most Used Languages
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khaoulaJel&layout=compact&theme=radical)](https://github.com/khaoulaJel)
+
 
 ## 🚀 **Skills**
 - **Languages:** Python, Java, C++, Go  
