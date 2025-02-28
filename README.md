@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 ## 📫 **Connect With Me**
 - **GitHub:** [github.com/khaoulaJel](https://github.com/khaoulaJel)  
-- **LinkedIn:** [linkedin.com/in/khaoula-jellal](https://linkedin.com/in/khaoula-jellal)  
+- **LinkedIn:** [linkedin.com/in/khaoula-jellal](https://www.linkedin.com/in/khaoula-jellal-8b0672257/)  
 - **Email:** [khaoulajellal@um6p.ma](mailto:khaoula.jellal@um6p.ma)  
 
 ---
