@@ -16,14 +16,13 @@ Here are some ideas to get you started:
 -->
 
 
-
 # Hi, I'm Khaoula Jellal! 👋  
 
-🌱 I'm a third-year Computer Science student, building my way through innovation and impact.
-💡 Passionate about AI and Machine Learning, with a deep appreciation for theory and its power in shaping solutions.
-🔍 Currently exploring Cybersecurity and Cloud Computing, expanding my skills beyond software development.
-🚀 I thrive on solving complex problems, pushing boundaries, and creating meaningful projects that leave a mark.
----
+🌱 **I'm a third-year Computer Science student**, building my way through **innovation and impact**.  
+💡 Passionate about **AI and Machine Learning**, with a deep appreciation for **theory and its power** in shaping solutions.  
+🔍 **Currently exploring** **Cybersecurity** and **Cloud Computing**, expanding my skills beyond software development.  
+🚀 I thrive on **solving complex problems**, pushing boundaries, and creating meaningful projects that leave a mark.  
+
 
 ## 🚀 **Skills**
 - **Languages:** Python, Java, C++, Go  
